@@ -9,4 +9,4 @@ function creditCardMask(string) {
   }
   return hiddenString + string.substring(hideLength);
 }
-console.log(creditCardMask("12317283908"));
+console.log(creditCardMask("13908"));
