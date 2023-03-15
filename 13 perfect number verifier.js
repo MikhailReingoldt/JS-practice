@@ -12,4 +12,4 @@ function sum(number) {
   }
 }
 
-console.log(sum(25));
+console.log(sum(28));
