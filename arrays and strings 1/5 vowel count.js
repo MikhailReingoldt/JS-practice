@@ -1,6 +1,6 @@
 let str = "abracadabra";
 let sum = 0;
-function vowelCount(str) {
+function vowelCount() {
   let vowels = ["a", "e", "i", "o", "u"];
   for (i = 0; i <= str.length; i++) {
     if (vowels.includes(str[i])) {

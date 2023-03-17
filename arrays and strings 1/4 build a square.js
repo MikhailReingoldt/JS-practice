@@ -1,6 +1,6 @@
 let number = 5;
 let result = "";
-function buildSquare(number) {
+function buildSquare() {
   for (i = 0; i < number; i++) {
     for (k = 0; k < number; k++) {
       result = result + "+";
