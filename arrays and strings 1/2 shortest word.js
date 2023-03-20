@@ -6,3 +6,4 @@ let shortestWord = Math.min(...wordsLength);
 /* оператор ... распространяет массив wordsLength на отдельные значения, которые затем передаются в качестве аргументов функции Math.min. */
 
 console.log(shortestWord);
+console.log(wordsLength);
